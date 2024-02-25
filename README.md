@@ -1,0 +1,2 @@
+# SMAI assigments and projects
+This repository contains assigments and projects for the Statistical Methods in AI course. It covers all the classical ML and modern day deep learning Algorithms. Its a live repository and will be constantly updated
